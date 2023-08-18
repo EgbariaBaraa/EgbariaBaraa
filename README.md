@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EgbariaBaraa
+-  I’m currently learning Computer Science at the Technion. (agbariya@campus.technion.ac.il)
+-  I’m maintaining all of my HomeWorks on GitHub, so it will be easier for me to access them in the future.
+-  my code can serve as a reference, yet, I strongly condemn any use of the code that does not apply to the Technion regulations.
+-  I am not responsible for illegal use of this code, such as copying it. 
